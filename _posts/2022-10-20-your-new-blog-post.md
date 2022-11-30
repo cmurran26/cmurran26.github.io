@@ -5,3 +5,9 @@ Cold, clear, crystal blue. The ocean waves looked so inviting on this Saturday a
 Upont the shore, I inspect my foot to see that I've been stung by a jellyfish! In that moment, I recalled a fact that urine helps with jellyfish stings, but did I want my friend peeing one me? No. Did my foot hurt? Incredibly. I enlisted my closest friend who's just weird enough to go with it. He peed on my foot, but my foot didn't feel better at all. We had to call over the lifeguard who helped soothe the burn from the sting.
 
 After we returned to the house -- my foot all bandaged up -- I stalked the interent only to learn that peeing on jellyfish stings is a complete myth and does, indeed, do nothing. I got peed on for nothing.
+
+```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
