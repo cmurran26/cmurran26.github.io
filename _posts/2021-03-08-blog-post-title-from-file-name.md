@@ -1,32 +1,7 @@
-## Blog Post Title From First Header
+## Cooking up a Storm
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+I've always loved cooking and exploring the different types of cuisine across the country and world. After my high school graduation, a group of friends and I ventured to Europe. We explored 5 different countries and tons of cities, and while the sites were beautiful and meeting people was much fun, what I remember most was the food. We traveled to many coastal towns and got to try tons of seafood. My favorite being in Spain.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+Spain is famous for their paella, which is a rice dish with lots of yummy seafood like shrimp, mussels, and clams. After eating dinner and having some good laughs with friends, I did some further research on the dish and the fish we consumed. Shrimp, mussels, and clams are critical ingredients to this dish but also critical creatures in the ocean. Shrimp are decapods, meaning they descend and are related to lobsters, crabs, and prawns. Seeing the biological relationship between differnt seafish and thinking about their flavor profiles has been a really interesting way to think about the food I eat. As a chef, these relationships can be important to think about when constructing dishes. 
 
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+Even though our meal was quick to eat, the story behind it and the origins of its ingredients tells a long story.
